@@ -127,7 +127,7 @@ Enter this Notebook URL for Pre-processing : https://github.com/IBM/bias-mitigat
 <img width="953" alt="12" src="https://user-images.githubusercontent.com/16270682/130231839-5dff0600-943b-4231-9a12-c7f061a37ffd.PNG">
 
 
-After the noteboob is imported, click on Not Trusted and select the option to trust the source of the notebook.
+After the notebook is imported, click on Not Trusted and select the option to trust the source of the notebook.
 
 <img width="861" alt="13" src="https://user-images.githubusercontent.com/16270682/130231849-db8293d5-7543-4458-b62e-c85d428e23b2.PNG">
 
