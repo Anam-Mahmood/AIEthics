@@ -46,12 +46,12 @@ Fairness in data, and machine learning algorithms is critical to building safe a
 ## How does the fairness algorithm work?
 
 The bias mitigation algorithm can be applied in three different stages of model building. These stages are pre-processing, in-processing & post-processing. The below diagram demonstrates how it works.
-![algorithm-working](https://github.com/Anam-Mahmood/AI-Ethics/blob/main/images/aif-360-flow.png?raw=true)
+![algorithm-working](https://github.com/Anam-Mahmood/AIEthics/blob/main/images/aif-360-flow.png?raw=true)
 
 The AIF360 Python package contains nine different algorithms, developed by the broader algorithmic fairness research community, to mitigate that unwanted bias. They can all be called in a standard way, very similar to scikit-learn’s fit/predict paradigm. In this way, we hope that the package is not only a way to bring all of us researchers together, but also a way to translate our collective research results to data scientists, data engineers, and developers deploying solutions in a variety of industries. You can learn more about AIF 360 here.
 
 ## Architecture diagram
-![architecture-diagram](https://github.com/Anam-Mahmood/AI-Ethics/blob/main/images/architecture-2.png?raw=true)
+![architecture-diagram](https://github.com/Anam-Mahmood/AIEthics/blob/main/images/architecture-2.png?raw=true)
 
 
 ### Flow
@@ -103,7 +103,7 @@ Give your project a unique name and click on create
 
 Go to https://github.com/Anam-Mahmood/AI-Ethics and either clone or download code in zip file. Un-zip the folder.
 
-![download-zip](https://github.com/Anam-Mahmood/Identify-and-remove-bias-from-AI-models-using-Watson-Studio/blob/main/images/Screen%20Shot%202021-09-16%20at%205.25.19%20PM.png?raw=true)
+![download-zip](https://github.com/Anam-Mahmood/AIEthics/blob/main/images/Screen%20Shot%202021-09-16%20at%205.25.19%20PM.png)
 
 Now that you have the code files on your computer, go to your AutoAI project on IBM Cloud.
 Click on Assets and select Browse and add fraud_data.csv file from your file system. Repeat the step and add the Pipeline_LabelEncoder-0.1.zip file as an asset.
