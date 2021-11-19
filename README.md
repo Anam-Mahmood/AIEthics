@@ -121,8 +121,8 @@ From IBM Watson Dashboard click on "Add to project" and select "Notebook"
 
 <img width="548" alt="11" src="https://user-images.githubusercontent.com/16270682/130228859-7f3ad65d-1e87-4ee3-beaf-562ebf60bbda.PNG">
 
-Create a  Pre-processing Notebook. Select the "From URL" tab and Enter a name for the notebook. Select the runtime (2 vCPU and 8 GB RAM.)
-Enter this Notebook URL for Pre-processing : https://github.com/IBM/bias-mitigation-of-machine-learning-models-using-aif360/blob/main/notebooks/Pre-processing.ipynb
+Create a  **Pre-processing** Notebook. Select the "From URL" tab and Enter a name for the notebook. Select the runtime (2 vCPU and 8 GB RAM.)
+Enter this Notebook URL for Pre-processing : https://github.com/Anam-Mahmood/AIEthics/blob/main/notebooks/Pre-processing.ipynb
 
 <img width="953" alt="12" src="https://user-images.githubusercontent.com/16270682/130231839-5dff0600-943b-4231-9a12-c7f061a37ffd.PNG">
 
@@ -132,10 +132,11 @@ After the notebook is imported, click on Not Trusted and select the option to tr
 <img width="861" alt="13" src="https://user-images.githubusercontent.com/16270682/130231849-db8293d5-7543-4458-b62e-c85d428e23b2.PNG">
 
 
-Repeat the above steps for in-processing and Post-processing 
+Repeat the above steps for In-processing and Post-processing 
 
-Enter this Notebook URL for In-processing : https://github.com/IBM/bias-mitigation-of-machine-learning-models-using-aif360/blob/main/notebooks/In-processing.ipynb
-Enter this Notebook URL for Post-processing : https://github.com/IBM/bias-mitigation-of-machine-learning-models-using-aif360/blob/main/notebooks/Post-processing.ipynb
+- Enter this Notebook URL for In-processing : https://github.com/Anam-Mahmood/AIEthics/blob/main/notebooks/In-processing.ipynb
+
+- Enter this Notebook URL for Post-processing : https://github.com/Anam-Mahmood/AIEthics/blob/main/notebooks/Post-processing.ipynb
 
 ## Step 6: Insert the data as dataframe
 
