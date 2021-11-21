@@ -4,7 +4,7 @@
 
 - **Login/Sign Up for IBM Cloud:** http://ibm.biz/wwcAIEthics
 - **Survey:** https://ibm.biz/wwcSurvey
-- **Presentation:** https://docs.google.com/presentation/d/17g2G3jWILkcXBPNy5-NIhuXYwDhRRsHD/edit?usp=sharing&ouid=103463591550858781483&rtpof=true&sd=true
+- **Presentation:** http://ibm.biz/wwcEthicspresentation
 
 ## Table of Contents
 
